@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 class Umpire {
     int numGuess, GuessP1, GuessP2, GuessP3;
-    public void getNumberFromGuesser() {
+    public void getNumberFromSuperPlayer() {
         SuperPlayer suplay = new SuperPlayer();
         numGuess = suplay.setNumber();
     }
@@ -57,7 +57,7 @@ public class Guesser_Game {
         int option = 1;
         while (option == 1) {
             Umpire umpire = new Umpire();
-            umpire.getNumberFromGuesser();
+            umpire.getNumberFromSuperPlayer();
             umpire.getNumbersFromThePlayer();
             umpire.calculateResult();
 
