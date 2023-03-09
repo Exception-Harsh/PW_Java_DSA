@@ -25,7 +25,7 @@ public class Solution_1 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Enter String: ");
+        System.out.print("Enter String: ");
         String str = scan.nextLine();
         char[] str1 = str.toCharArray();
         System.out.println(removeDuplicate(str1, str1.length));
