@@ -27,6 +27,7 @@ public class Solution_1 {
 
         System.out.print("Enter String: ");
         String str = scan.nextLine();
+        str = str.toUpperCase();
         char[] str1 = str.toCharArray();
         System.out.println(removeDuplicate(str1, str1.length));
     }
