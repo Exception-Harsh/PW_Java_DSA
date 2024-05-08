@@ -1,6 +1,6 @@
 package Assignment_3;
 
-public class RemoveDuplicate {
+public class Solution_1 {
     public static void main(String[] args) {
         String s1 = "Succession";
         s1 = s1.toUpperCase();
