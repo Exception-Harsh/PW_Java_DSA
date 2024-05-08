@@ -1,4 +1,4 @@
-package Assignment_3;
+package Module_24_Assg;
 
 public class Solution_4 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Assignment_3;
+package Module_24_Assg;
 
 public class Solution_5 {
     public static char[] sortArray(char[] array) {
