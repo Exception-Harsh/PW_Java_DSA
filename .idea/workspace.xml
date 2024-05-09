@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b57b1c45-51ae-4f03-a14a-ff0c9e10b0e6" name="Changes" comment="Program to remove duplicate from a string">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_3/Solution_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_3/Solution_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_3/Solution_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_3/Solution_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b57b1c45-51ae-4f03-a14a-ff0c9e10b0e6" name="Changes" comment="package name change">
+      <change afterPath="$PROJECT_DIR$/src/Module_24_Assg/Solution_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Module_24_Assg/Solution_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Module_24_Assg/Solution_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_3/RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_3/Solution_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +58,9 @@
     "Application.Solution_3.executor": "Run",
     "Application.Solution_4.executor": "Run",
     "Application.Solution_5.executor": "Run",
+    "Application.Solution_6.executor": "Run",
+    "Application.Solution_7.executor": "Run",
+    "Application.Solution_8.executor": "Run",
     "Application.Test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -127,7 +127,39 @@
       <option name="project" value="LOCAL" />
       <updated>1715155295783</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="...">
+      <option name="closed" value="true" />
+      <created>1715165643950</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715165643950</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Sol 2 to 5">
+      <option name="closed" value="true" />
+      <created>1715165684491</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715165684491</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Sol 2 to 5">
+      <option name="closed" value="true" />
+      <created>1715165743803</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715165743803</updated>
+    </task>
+    <task id="LOCAL-00010" summary="package name change">
+      <option name="closed" value="true" />
+      <created>1715165812231</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715165812231</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -135,7 +167,10 @@
     <MESSAGE value="Removing duplicate characters from string." />
     <MESSAGE value="Update workspace.xml" />
     <MESSAGE value="Program to remove duplicate from a string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Program to remove duplicate from a string" />
+    <MESSAGE value="..." />
+    <MESSAGE value="Sol 2 to 5" />
+    <MESSAGE value="package name change" />
+    <option name="LAST_COMMIT_MESSAGE" value="package name change" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
